@@ -1,0 +1,5 @@
+{
+  "name": "Control Horario de Equipo",
+  "description": "Una aplicación sencilla para que los equipos de trabajo registren sus horas de entrada y salida. Los datos se guardan localmente en el navegador.",
+  "requestFramePermissions": []
+}
